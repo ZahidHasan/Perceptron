@@ -89,5 +89,5 @@ plt.plot(errors)
 ```
 
 # Decision Boundary
-![decision boundary]({{site.baseurl}}/img/decision_boundary.png)
+![percepton](https://github.com/ZahidHasan/Perceptron/blob/master/img/decision_boundary.png "Perceptron")
 
