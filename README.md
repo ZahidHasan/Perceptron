@@ -13,7 +13,7 @@ A perceptron consists of one or more inputs, a processor, and a single output.
 2. Sum all of the weighted inputs.
 3. Compute the output of the perceptron based on that sum passed through an activation function (the sign of the sum).
 
-## Code
+## Perceptron for classifying OR function
 ```python
 
 import numpy as np
@@ -92,5 +92,5 @@ plt.plot(errors)
 ![percepton](https://github.com/ZahidHasan/Perceptron/blob/master/img/decision_boundary.png "Perceptron")
 
 # Errors
-![errors](https://github.com/ZahidHasan/Perceptron/blob/master/img/decision_boundary.png "Errors")
+![errors](https://github.com/ZahidHasan/Perceptron/blob/master/img/error.png "Errors")
 
