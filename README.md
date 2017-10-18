@@ -13,6 +13,7 @@ A perceptron consists of one or more inputs, a processor, and a single output.
 2. Sum all of the weighted inputs.
 3. Compute the output of the perceptron based on that sum passed through an activation function (the sign of the sum).
 
+## Code
 ```python
 
 import numpy as np
@@ -90,4 +91,4 @@ plt.plot(errors)
 ## Decision Boundary
 ![decision boundary]({{site.baseurl}}//img/decision_boundary.png)
 
-
+## Error![]({{site.baseurl}}//img/error.png)
