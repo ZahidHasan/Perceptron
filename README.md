@@ -2,6 +2,12 @@
 Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory, a perceptron is the simplest neural network possible: a computational model of a single neuron. 
 A perceptron consists of one or more inputs, a processor, and a single output.
 
+![percepton](https://github.com/ZahidHasan/Perceptron/blob/master/img/perceptron_neuron.png "Perceptron")
+
+![percepton](https://sebastianraschka.com/images/blog/2015/singlelayer_neural_networks_files/perceptron_schematic.png "Perceptron")
+
+
+
 ## The Perceptron Algorithm:
 1. For every input, multiply that input by its weight.
 2. Sum all of the weighted inputs.
