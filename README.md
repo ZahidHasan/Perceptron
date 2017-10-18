@@ -91,4 +91,5 @@ plt.plot(errors)
 ## Decision Boundary
 ![decision boundary]({{site.baseurl}}//img/decision_boundary.png)
 
-## Error![]({{site.baseurl}}//img/error.png)
+## Error
+![]({{site.baseurl}}//img/error.png)
