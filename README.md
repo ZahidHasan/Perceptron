@@ -86,10 +86,10 @@ plt.plot(a,c)
 plt.figure(2)
 plt.ylim([-1,1]) 
 plt.plot(errors)
-'''
+```
 
-## Decision Boundary
+# Decision Boundary
 ![decision boundary]({{site.baseurl}}//img/decision_boundary.png)
 
-## Error
+# Error
 ![]({{site.baseurl}}//img/error.png)
