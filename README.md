@@ -94,3 +94,5 @@ plt.plot(errors)
 # Errors
 ![errors](https://github.com/ZahidHasan/Perceptron/blob/master/img/error.png "Errors")
 
+# test
+gergregrger er ertrret t :)
