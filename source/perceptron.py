@@ -68,3 +68,6 @@ plt.plot(a,c)
 plt.figure(2)
 plt.ylim([-1,1]) 
 plt.plot(errors)
+
+nkjlnnjn
+;lmmlmlmlm
